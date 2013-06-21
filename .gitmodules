@@ -55,3 +55,6 @@
 [submodule "reptile/RTX"]
 	path = reptile/RTX
 	url = https://github.com/EnergyMicro/RTX.git
+[submodule "emdrv"]
+	path = emdrv
+	url = https://github.com/EnergyMicro/emdrv.git
