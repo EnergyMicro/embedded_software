@@ -1,0 +1,6 @@
+This is the top-level repository for EFM32 / EFR software development.
+
+To get started, clone this repository. The other repositories are submodules
+in this project. It is unlikely that you will need all the submodules 
+included in the default git repository. Feel free to remove them. It is
+likely that you will need at least CMSIS/, Device/ and emlib/. 
