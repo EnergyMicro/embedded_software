@@ -1,0 +1,57 @@
+[submodule "emlib"]
+	path = emlib
+	url = https://github.com/EnergyMicro/emlib.git
+[submodule "CMSIS"]
+	path = CMSIS
+	url = https://github.com/EnergyMicro/CMSIS.git
+[submodule "Device"]
+	path = Device
+	url = https://github.com/EnergyMicro/Device.git
+[submodule "usb"]
+	path = usb
+	url = https://github.com/EnergyMicro/usb.git
+[submodule "kits/common"]
+	path = kits/common
+	url = https://github.com/EnergyMicro/kit_common.git
+[submodule "kits/EFM32WG_DK3850"]
+	path = kits/EFM32WG_DK3850
+	url = https://github.com/EnergyMicro/EFM32WG_DK3850.git
+[submodule "kits/EFM32GG_DK3750"]
+	path = kits/EFM32GG_DK3750
+	url = https://github.com/EnergyMicro/EFM32GG_DK3750.git
+[submodule "kits/EFM32LG_DK3650"]
+	path = kits/EFM32LG_DK3650
+	url = https://github.com/EnergyMicro/EFM32LG_DK3650.git
+[submodule "kits/EFM32G_DK3550"]
+	path = kits/EFM32G_DK3550
+	url = https://github.com/EnergyMicro/EFM32G_DK3550.git
+[submodule "kits/EFM32_Gxxx_DK"]
+	path = kits/EFM32_Gxxx_DK
+	url = https://github.com/EnergyMicro/EFM32_Gxxx_DK.git
+[submodule "kits/EFM32WG_STK3800"]
+	path = kits/EFM32WG_STK3800
+	url = https://github.com/EnergyMicro/EFM32WG_STK3800.git
+[submodule "kits/EFM32GG_STK3700"]
+	path = kits/EFM32GG_STK3700
+	url = https://github.com/EnergyMicro/EFM32GG_STK3700.git
+[submodule "kits/EFM32LG_STK3600"]
+	path = kits/EFM32LG_STK3600
+	url = https://github.com/EnergyMicro/EFM32LG_STK3600.git
+[submodule "kits/EFM32TG_STK3300"]
+	path = kits/EFM32TG_STK3300
+	url = https://github.com/EnergyMicro/EFM32TG_STK3300.git
+[submodule "kits/EFM32_Gxxx_STK"]
+	path = kits/EFM32_Gxxx_STK
+	url = https://github.com/EnergyMicro/EFM32_Gxxx_STK.git
+[submodule "reptile/glib"]
+	path = reptile/glib
+	url = https://github.com/EnergyMicro/glib
+[submodule "reptile/fatfs"]
+	path = reptile/fatfs
+	url = https://github.com/EnergyMicro/fatfs.git
+[submodule "reptile/FreeRTOS"]
+	path = reptile/FreeRTOS
+	url = https://github.com/EnergyMicro/FreeRTOS.git
+[submodule "reptile/RTX"]
+	path = reptile/RTX
+	url = https://github.com/EnergyMicro/RTX.git
